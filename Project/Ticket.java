@@ -6,5 +6,22 @@ public class Ticket {
 	private String MovieSchedule;
 	private boolean Used;
 	private String UserEmail;
+	// private MovieSchedule Movie = getMovie();
+	// private Movie MovieTitle = getMovieTitle();
+
+	public String getMovieSchedule() {
+		return this.MovieSchedule;
+	}
+
+	public MovieSchedule getMovie() {
+		return getMovie();
+	}
+
+	public Movie getMovieTitle() {
+		return getMovieTitle();
+	}
+	
+
+	
 
 }
